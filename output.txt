@@ -1,0 +1,70 @@
+Name : Bob Hope
+Image address : https://images-na.ssl-images-amazon.com/images/M/MV5BNTY2MzA1MjU3MF5BMl5BanBnXkFtZTYwMzkxMDM2._V1._CR19,0,305,450_SX40_SY59.jpg
+Profession :Self
+Movie :  "The 50th Annual Academy Awards"
+Overall Sentiment on Twitter :POSITIVE
+
+
+Name : Annette Bening
+Image address : https://images-na.ssl-images-amazon.com/images/M/MV5BMTc4ODQ1ODM5Ml5BMl5BanBnXkFtZTcwOTU2NDk3OQ@@._V1._CR0,0,683,1007_SX40_SY59.jpg
+Profession :Actress
+Movie :  "American Beauty"
+Overall Sentiment on Twitter :POSITIVE
+
+
+Name : Rupert Everett
+Image address : https://images-na.ssl-images-amazon.com/images/M/MV5BODQzMDM2ODE3MV5BMl5BanBnXkFtZTYwMDkxODE2._V1._CR0,0,257,379_SX40_SY59.jpg
+Profession :Actor
+Movie :  "Shrek 2"
+Overall Sentiment on Twitter :POSITIVE
+
+
+Name : Danny Elfman
+Image address : https://images-na.ssl-images-amazon.com/images/M/MV5BMTU4MTU0ODA0Nl5BMl5BanBnXkFtZTgwNTk1Njk3MjE@._V1._CR0,0,2848,4201_SX40_SY59.jpg
+Profession :Music Department
+Movie :  "Corpse Bride"
+Overall Sentiment on Twitter :NEGATIVE
+
+
+Name : David Burtka
+Image address : https://images-na.ssl-images-amazon.com/images/M/MV5BMTQwNzg2MzU4M15BMl5BanBnXkFtZTcwMzU1OTIxNw@@._V1._CR0,0,1363,2010_SX40_SY59.jpg
+Profession :Actor
+Movie :  "Doctor's Office"
+Overall Sentiment on Twitter :POSITIVE
+
+
+Name : Gregg Sulkin
+Image address : https://images-na.ssl-images-amazon.com/images/M/MV5BN2Y5NTJlMDItYmE3Ni00YzA2LWE2NTEtYjFiODgwYTM4NjM4L2ltYWdlXkEyXkFqcGdeQXVyMjMwODIzMTA@._V1._CR0,0,3840,5664_SX40_SY59.jpg
+Profession :Actor
+Movie :  "Don't Hang Up"
+Overall Sentiment on Twitter :NEUTRAL
+
+
+Name : Riley Keough
+Image address : https://images-na.ssl-images-amazon.com/images/M/MV5BMTY2Nzc1ODkzMF5BMl5BanBnXkFtZTgwMDUwNjE5MDI@._V1._CR0,0,1365,2013_SX40_SY59.jpg
+Profession :Actress
+Movie :  "Mad Max: Fury Road"
+Overall Sentiment on Twitter :POSITIVE
+
+
+Name : Paloma Kwiatkowski
+Image address : https://images-na.ssl-images-amazon.com/images/M/MV5BODE1ODU3NDg0Nl5BMl5BanBnXkFtZTcwMjMyMTMzOQ@@._V1._CR149,0,321,473_SX40_SY59.jpg
+Profession :Actress
+Movie :  "Percy Jackson: Sea of Monsters"
+Overall Sentiment on Twitter :NEUTRAL
+
+
+Name : Adam Brown
+Image address : https://images-na.ssl-images-amazon.com/images/M/MV5BOTk2NzgwNTM5M15BMl5BanBnXkFtZTgwOTA4OTY4MDE@._V1._CR49,0,339,500_SX40_SY59.jpg
+Profession :Actor
+Movie :  "The Hobbit: An Unexpected Journey"
+Overall Sentiment on Twitter :POSITIVE
+
+
+Name : Justin Chon
+Image address : https://images-na.ssl-images-amazon.com/images/M/MV5BMjEwMzI0MTIwNV5BMl5BanBnXkFtZTcwMTIyMzIzMg@@._V1._CR226,0,2847,4200_SX40_SY59.jpg
+Profession :Actor
+Movie :  "Twilight"
+Overall Sentiment on Twitter :POSITIVE
+
+

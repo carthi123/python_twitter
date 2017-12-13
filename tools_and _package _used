@@ -1,0 +1,41 @@
+----------------------------------------------------------
+Prerequisite
+----------------------------------------------------------
+
+In terminal install this modules
+
+1)pip install selenium
+
+2)pip install tweepy
+
+3)pip install bs4
+
+4)download google chrome web drive and give its path in the file. 
+
+
+--------------------------------------------------
+Execution of the program
+------------------------------------------------------
+Used python 2.7 and linux system for program writing 
+
+1)Run the file main_webscraping.py 
+
+(give the exact  path for the google chrome web driver inn that file ) 
+
+2) output is stored in the output.txt
+
+
+-----------------------------------------------------
+Modules used in the python program
+----------------------------------------------------------
+
+1) selenium 
+(download chrome webdriver and give the path to it, in the program) 
+It is used to load the webpage
+
+2) Beautifil soup
+It is used to extract the information from the html data
+
+3) tweepy
+It is used to connect to the twitter and get the tweets 
+
